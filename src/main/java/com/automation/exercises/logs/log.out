@@ -1,0 +1,699 @@
+2023-12-25 20:12:547 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:662 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:349 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 20:12:499 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:928 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:429 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 20:12:95 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:704 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:185 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 20:12:288 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:750 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:21 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:551 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:888 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:183 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:898 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:561 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:157 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 20:12:257 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:718 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:78 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 20:12:684 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:952 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:554 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 20:12:650 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:818 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:267 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:673 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:44 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 20:12:356 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 20:12:752 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:724 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:715 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 21:12:813 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:249 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:331 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 21:12:980 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:585 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:620 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 21:12:107 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:427 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:777 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:212 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:544 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:117 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:638 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:525 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:61 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 21:12:179 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:455 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:646 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 21:12:221 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:531 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:699 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 21:12:779 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:523 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:864 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:985 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:353 INFO  ManageBrowser :29 - launching chrome browser
+2023-12-25 21:12:196 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:288 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 21:12:977 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:480 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 21:12:612 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 21:12:895 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:483 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 21:12:11 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 21:12:392 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:893 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 21:12:975 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 21:12:324 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:620 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 21:12:502 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 21:12:812 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 21:12:35 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:881 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:648 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:686 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:787 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:394 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:826 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 22:12:481 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:729 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:241 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 22:12:319 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:589 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:934 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:357 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:643 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:728 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:348 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:960 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:579 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 22:12:439 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:217 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:311 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 22:12:779 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:470 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:481 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:117 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:277 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:161 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:819 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:918 INFO  NewUserSignUpOrLoginPage2 :106 - Passing the name in the name text field
+2023-12-25 22:12:968 INFO  NewUserSignUpOrLoginPage2 :112 - Passing the email address in the email text field
+2023-12-25 22:12:496 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:314 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:10 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:82 INFO  NewUserSignUpOrLoginPage2 :106 - Passing the name in the name text field
+2023-12-25 22:12:142 INFO  NewUserSignUpOrLoginPage2 :112 - Passing the email address in the email text field
+2023-12-25 22:12:637 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 22:12:988 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:674 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:18 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:486 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:346 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:429 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:533 INFO  NewUserSignUpOrLoginPage2 :106 - Passing the name in the name text field
+2023-12-25 22:12:594 INFO  NewUserSignUpOrLoginPage2 :112 - Passing the email address in the email text field
+2023-12-25 22:12:556 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:236 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:416 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:483 INFO  NewUserSignUpOrLoginPage2 :105 - Passing the name in the name text field
+2023-12-25 22:12:547 INFO  NewUserSignUpOrLoginPage2 :111 - Passing the email address in the email text field
+2023-12-25 22:12:861 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 22:12:804 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:625 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:464 INFO  HomePage1 :57 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 22:12:520 INFO  NewUserSignUpOrLoginPage2 :105 - Passing the name in the name text field
+2023-12-25 22:12:556 INFO  NewUserSignUpOrLoginPage2 :111 - Passing the email address in the email text field
+2023-12-25 22:12:413 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 22:12:176 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 22:12:852 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 22:12:807 INFO  HomePage1 :69 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 23:12:981 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:688 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 23:12:737 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 23:12:713 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:581 INFO  HomePage1 :49 - verifying homepage url
+2023-12-25 23:12:622 INFO  HomePage1 :75 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 23:12:603 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:212 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:834 INFO  HomePage1 :78 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 23:12:828 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:593 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:284 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:357 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2023-12-25 23:12:395 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2023-12-25 23:12:385 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 23:12:420 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:446 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:532 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-25 23:12:969 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:541 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:446 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:514 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2023-12-25 23:12:575 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2023-12-25 23:12:315 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 23:12:350 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:367 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:433 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-25 23:12:260 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:04 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:122 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:189 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2023-12-25 23:12:226 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2023-12-25 23:12:185 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 23:12:201 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:215 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:246 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-25 23:12:356 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:76 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:800 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:864 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2023-12-25 23:12:940 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2023-12-25 23:12:659 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 23:12:676 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:689 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:720 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-25 23:12:673 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:656 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:250 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:375 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:725 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:24 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:79 INFO  NewUserSignUpOrLoginPage2 :105 - Passing the name in the name text field
+2023-12-25 23:12:128 INFO  NewUserSignUpOrLoginPage2 :111 - Passing the email address in the email text field
+2023-12-25 23:12:93 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 23:12:195 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:588 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:737 INFO  HomePage1 :72 - Click on to contact us button and navigates to Contact Us Page
+2023-12-25 23:12:363 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:843 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:882 INFO  HomePage1 :78 - Click on test cases button and navigates to test cases page successfully 
+2023-12-25 23:12:306 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:910 INFO  HomePage1 :52 - verifying homepage url
+2023-12-25 23:12:44 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-25 23:12:184 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2023-12-25 23:12:245 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2023-12-25 23:12:89 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2023-12-25 23:12:112 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:124 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-25 23:12:153 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-25 23:12:154 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:197 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-25 23:12:119 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-26 00:12:664 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-26 00:12:439 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-26 00:12:444 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-26 00:12:730 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-26 00:12:688 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-26 00:12:692 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-26 00:12:943 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-26 00:12:470 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-26 00:12:475 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 08:12:169 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:579 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 08:12:586 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 08:12:170 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:257 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 08:12:265 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 08:12:202 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:209 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 08:12:215 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 08:12:611 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:681 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 08:12:692 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 08:12:431 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:141 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 08:12:146 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 08:12:192 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:506 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 08:12:235 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 08:12:942 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:280 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:349 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:47 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:622 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:671 INFO  NewUserSignUpOrLoginPage2 :98 - Passing the email address in the email text field
+2023-12-31 09:12:480 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:934 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:287 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:412 INFO  NewUserSignUpOrLoginPage2 :98 - Passing the email address in the email text field
+2023-12-31 09:12:256 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:249 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:255 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 09:12:848 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:560 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:42 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:888 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:895 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 09:12:323 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:87 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:95 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 09:12:482 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:219 INFO  HomePage1 :60 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 09:12:227 INFO  NewUserSignUpOrLoginPage2 :75 - Verifying New User SignUp Or LoginPage Url
+2023-12-31 09:12:227 INFO  NewUserSignUpOrLoginPage2 :77 - After user clicks on log out button, navigates to login page back again
+2023-12-31 09:12:149 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 09:12:768 INFO  HomePage1 :52 - verifying homepage url
+2023-12-31 09:12:655 INFO  HomePage1 :72 - Click on to contact us button and navigates to Contact Us Page
+2023-12-31 11:12:211 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 11:12:369 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 11:12:134 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 11:12:539 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 11:12:144 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 11:12:147 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 11:12:866 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:410 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:725 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 12:12:177 INFO  HomePage1 :77 - Click on to contact us button and navigates to Contact Us Page
+2023-12-31 12:12:976 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:456 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:41 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:246 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 12:12:982 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:222 INFO  NewUserSignUpOrLoginPage2 :91 - Passing the name in the name text field
+2023-12-31 12:12:302 INFO  NewUserSignUpOrLoginPage2 :98 - Passing the email address in the email text field
+2023-12-31 12:12:414 INFO  NewUserSignUpOrLoginPage2 :117 - Click on the SignUp Button and navigating to Register Page 
+2023-12-31 12:12:443 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-31 12:12:465 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-31 12:12:550 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-31 12:12:19 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:138 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 12:12:276 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:421 INFO  NewUserSignUpOrLoginPage2 :117 - Click on the SignUp Button and navigating to Register Page 
+2023-12-31 12:12:624 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:897 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 12:12:975 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:121 INFO  NewUserSignUpOrLoginPage2 :91 - Passing the name in the name text field
+2023-12-31 12:12:189 INFO  NewUserSignUpOrLoginPage2 :98 - Passing the email address in the email text field
+2023-12-31 12:12:721 INFO  NewUserSignUpOrLoginPage2 :117 - Click on the SignUp Button and navigating to Register Page 
+2023-12-31 12:12:813 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-31 12:12:844 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2023-12-31 12:12:912 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2023-12-31 12:12:585 INFO  RegisterPage3 :172 - Click on Create Account and user created account successfully
+2023-12-31 12:12:615 INFO  AccountCreatedPage4 :45 - Verifying account creation successfully
+2023-12-31 12:12:648 INFO  AccountCreatedPage4 :45 - Verifying account creation successfully
+2023-12-31 12:12:691 INFO  AccountCreatedPage4 :55 - Clicking on Continue button and navigating to HomePage with registered Username 
+2023-12-31 12:12:595 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:471 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:198 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:469 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 12:12:95 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:980 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 12:12:874 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 13:12:678 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 14:12:646 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 15:12:927 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:376 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:338 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 16:12:615 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:415 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 16:12:681 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:690 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 16:12:779 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:403 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 16:12:119 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:893 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 16:12:784 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 16:12:444 INFO  HomePage1 :65 - Click on the SignUp or login button to navigate to the New User Page
+2023-12-31 17:12:763 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 17:12:319 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 17:12:867 INFO  HomePage1 :77 - Click on to contact us button and navigates to Contact Us Page
+2023-12-31 17:12:466 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 17:12:74 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 17:12:116 INFO  HomePage1 :97 - Clicking on products button
+2023-12-31 17:12:122 INFO  ProductPage8 :46 - Getting All Products Text
+2023-12-31 17:12:100 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 17:12:980 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 17:12:36 INFO  HomePage1 :97 - Clicking on products button
+2023-12-31 17:12:46 INFO  ProductPage8 :46 - Getting All Products Text
+2023-12-31 17:12:455 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 17:12:827 INFO  HomePage1 :57 - verifying homepage url
+2023-12-31 17:12:874 INFO  HomePage1 :97 - Clicking on products button
+2023-12-31 17:12:881 INFO  ProductPage8 :46 - Getting All Products Text
+2023-12-31 18:12:575 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 18:12:315 INFO  HomePage1 :77 - verifying homepage url
+2023-12-31 18:12:637 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 18:12:318 INFO  HomePage1 :77 - verifying homepage url
+2023-12-31 18:12:806 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 18:12:434 INFO  HomePage1 :77 - verifying homepage url
+2023-12-31 21:12:146 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 21:12:820 INFO  HomePage1 :81 - verifying homepage url
+2023-12-31 21:12:121 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 21:12:549 INFO  HomePage1 :81 - verifying homepage url
+2023-12-31 23:12:129 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 23:12:71 INFO  HomePage1 :81 - verifying homepage url
+2023-12-31 23:12:109 INFO  HomePage1 :121 - Clicking on products button
+2023-12-31 23:12:79 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 23:12:495 INFO  HomePage1 :81 - verifying homepage url
+2023-12-31 23:12:537 INFO  HomePage1 :121 - Clicking on products button
+2023-12-31 23:12:860 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 23:12:472 INFO  HomePage1 :81 - verifying homepage url
+2023-12-31 23:12:198 INFO  ManageBrowser :30 - launching chrome browser
+2023-12-31 23:12:742 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:66 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:565 INFO  HomePage1 :89 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 00:01:462 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:170 INFO  HomePage1 :89 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 00:01:565 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:688 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:765 INFO  HomePage1 :89 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 00:01:849 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:377 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:546 INFO  HomePage1 :89 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 00:01:672 INFO  NewUserSignUpOrLoginPage2 :104 - Passing the name in the name text field
+2024-01-01 00:01:721 INFO  NewUserSignUpOrLoginPage2 :110 - Passing the email address in the email text field
+2024-01-01 00:01:854 INFO  NewUserSignUpOrLoginPage2 :117 - Click on the SignUp Button and navigating to Register Page 
+2024-01-01 00:01:894 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:188 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:733 INFO  HomePage1 :101 - Click on to contact us button and navigates to Contact Us Page
+2024-01-01 00:01:637 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:915 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:960 INFO  HomePage1 :107 - Click on test cases button and navigates to test cases page successfully 
+2024-01-01 00:01:317 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:834 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:980 INFO  HomePage1 :89 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 00:01:119 INFO  NewUserSignUpOrLoginPage2 :91 - Passing the name in the name text field
+2024-01-01 00:01:166 INFO  NewUserSignUpOrLoginPage2 :98 - Passing the email address in the email text field
+2024-01-01 00:01:311 INFO  NewUserSignUpOrLoginPage2 :117 - Click on the SignUp Button and navigating to Register Page 
+2024-01-01 00:01:396 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:605 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:811 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:108 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:33 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:369 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:413 INFO  HomePage1 :121 - Clicking on products button
+2024-01-01 00:01:417 INFO  ProductPage8 :70 - Getting All Products Text
+2024-01-01 00:01:963 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:464 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:524 INFO  HomePage1 :121 - Clicking on products button
+2024-01-01 00:01:527 INFO  ProductPage8 :70 - Getting All Products Text
+2024-01-01 00:01:504 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:870 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 00:01:931 INFO  HomePage1 :121 - Clicking on products button
+2024-01-01 00:01:669 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 00:01:862 INFO  HomePage1 :81 - verifying homepage url
+2024-01-01 11:01:166 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 11:01:358 INFO  HomePage1 :125 - verifying homepage url
+2024-01-01 11:01:686 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 11:01:333 INFO  HomePage1 :125 - verifying homepage url
+2024-01-01 12:01:209 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 12:01:826 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 12:01:558 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 12:01:252 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 12:01:990 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 12:01:586 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 13:01:263 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 13:01:757 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 13:01:383 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 13:01:480 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-01 13:01:520 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2024-01-01 13:01:772 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2024-01-01 13:01:737 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 13:01:581 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 13:01:181 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 13:01:247 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-01 13:01:301 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2024-01-01 13:01:747 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2024-01-01 13:01:377 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 13:01:996 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 13:01:114 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 13:01:216 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-01 13:01:280 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2024-01-01 13:01:310 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2024-01-01 13:01:74 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 13:01:835 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 13:01:736 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 13:01:803 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-01 13:01:861 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2024-01-01 13:01:724 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2024-01-01 13:01:745 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2024-01-01 13:01:771 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2024-01-01 13:01:744 INFO  RegisterPage3 :172 - Click on Create Account and user created account successfully
+2024-01-01 13:01:761 INFO  AccountCreatedPage4 :45 - Verifying account creation successfully
+2024-01-01 13:01:787 INFO  AccountCreatedPage4 :45 - Verifying account creation successfully
+2024-01-01 13:01:849 INFO  AccountCreatedPage4 :56 - Clicking on Continue button and navigating to HomePage with registered Username 
+2024-01-01 16:01:197 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 16:01:160 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 16:01:511 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 16:01:155 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 16:01:391 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 16:01:520 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 16:01:860 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 16:01:760 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 16:01:525 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 16:01:176 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 16:01:169 INFO  AccountCreatedPage4 :71 - Click onto logout button and user navigated to login page
+2024-01-01 17:01:411 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 17:01:443 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 17:01:651 INFO  AccountCreatedPage4 :71 - Click onto logout button and user navigated to login page
+2024-01-01 17:01:215 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 17:01:652 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 17:01:781 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 17:01:965 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 17:01:649 INFO  HomePage1 :150 - Click on to contact us button and navigates to Contact Us Page
+2024-01-01 17:01:811 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 17:01:81 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 17:01:787 INFO  HomePage1 :150 - Click on to contact us button and navigates to Contact Us Page
+2024-01-01 18:01:855 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 18:01:756 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 18:01:754 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 18:01:297 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 18:01:522 INFO  AccountCreatedPage4 :63 - Verifying Logged in as registered UserName
+2024-01-01 18:01:186 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 18:01:470 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 18:01:26 INFO  AccountCreatedPage4 :62 - Verifying Logged in as registered UserName
+2024-01-01 18:01:517 INFO  AccountCreatedPage4 :70 - Click onto logout button and user navigated to login page
+2024-01-01 19:01:144 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 19:01:659 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 19:01:716 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 19:01:949 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 19:01:529 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 19:01:579 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 19:01:211 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 19:01:791 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 19:01:839 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 19:01:153 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 19:01:605 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 19:01:653 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 19:01:905 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 19:01:360 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 19:01:193 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 19:01:41 INFO  AccountCreatedPage4 :62 - Verifying Logged in as registered UserName
+2024-01-01 19:01:89 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 19:01:94 INFO  ProductPage8 :73 - Getting All Products Text
+2024-01-01 19:01:799 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 19:01:266 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 19:01:458 INFO  HomePage1 :138 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-01 19:01:937 INFO  AccountCreatedPage4 :62 - Verifying Logged in as registered UserName
+2024-01-01 19:01:982 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 19:01:988 INFO  ProductPage8 :73 - Getting All Products Text
+2024-01-01 20:01:638 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:533 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:578 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 20:01:585 INFO  ProductPage8 :80 - Getting All Products Text
+2024-01-01 20:01:672 INFO  ProductPage8 :86 - Clicking on View Product Of First Product Blue Top 
+2024-01-01 20:01:438 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:788 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:830 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 20:01:836 INFO  ProductPage8 :80 - Getting All Products Text
+2024-01-01 20:01:204 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:120 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:41 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:609 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:264 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 20:01:160 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:731 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:778 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 20:01:587 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:92 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:136 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 20:01:904 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:486 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:528 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 20:01:24 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 20:01:706 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 20:01:747 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 21:01:277 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 21:01:111 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 21:01:155 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 21:01:688 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 21:01:263 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 21:01:16 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 21:01:451 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 21:01:516 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 21:01:394 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 21:01:979 INFO  HomePage1 :130 - verifying homepage url
+2024-01-01 21:01:30 INFO  HomePage1 :170 - Clicking on products button
+2024-01-01 22:01:619 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 22:01:904 INFO  HomePage1 :141 - verifying homepage url
+2024-01-01 23:01:612 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 23:01:709 INFO  HomePage1 :141 - verifying homepage url
+2024-01-01 23:01:748 INFO  HomePage1 :181 - Clicking on products button
+2024-01-01 23:01:211 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 23:01:788 INFO  HomePage1 :141 - verifying homepage url
+2024-01-01 23:01:844 INFO  HomePage1 :181 - Clicking on products button
+2024-01-01 23:01:960 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 23:01:364 INFO  HomePage1 :141 - verifying homepage url
+2024-01-01 23:01:409 INFO  HomePage1 :181 - Clicking on products button
+2024-01-01 23:01:481 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 23:01:371 INFO  HomePage1 :141 - verifying homepage url
+2024-01-01 23:01:409 INFO  HomePage1 :181 - Clicking on products button
+2024-01-01 23:01:829 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-01 23:01:541 INFO  HomePage1 :141 - verifying homepage url
+2024-01-01 23:01:587 INFO  HomePage1 :181 - Clicking on products button
+2024-01-02 00:01:514 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 00:01:524 INFO  HomePage1 :141 - verifying homepage url
+2024-01-02 00:01:563 INFO  HomePage1 :181 - Clicking on products button
+2024-01-02 00:01:570 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 00:01:673 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 00:01:265 INFO  HomePage1 :141 - verifying homepage url
+2024-01-02 00:01:305 INFO  HomePage1 :181 - Clicking on products button
+2024-01-02 00:01:313 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 01:01:702 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:701 INFO  HomePage1 :141 - verifying homepage url
+2024-01-02 01:01:739 INFO  HomePage1 :181 - Clicking on products button
+2024-01-02 01:01:749 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 01:01:207 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 01:01:128 INFO  HomePage1 :141 - verifying homepage url
+2024-01-02 01:01:165 INFO  HomePage1 :181 - Clicking on products button
+2024-01-02 01:01:171 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 02:01:793 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:575 INFO  HomePage1 :155 - verifying homepage url
+2024-01-02 02:01:371 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:907 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 02:01:422 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:31 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 02:01:418 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:946 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 02:01:473 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:97 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 02:01:28 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:687 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 02:01:184 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:669 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 02:01:73 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 02:01:903 INFO  HomePage1 :159 - verifying homepage url
+2024-01-02 03:01:968 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 03:01:848 INFO  HomePage1 :163 - verifying homepage url
+2024-01-02 03:01:564 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 03:01:83 INFO  HomePage1 :163 - verifying homepage url
+2024-01-02 03:01:145 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 03:01:619 INFO  HomePage1 :163 - verifying homepage url
+2024-01-02 10:01:713 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 10:01:236 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 10:01:902 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 10:01:29 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-02 10:01:76 INFO  NewUserSignUpOrLoginPage2 :99 - Passing the email address in the email text field
+2024-01-02 10:01:533 INFO  NewUserSignUpOrLoginPage2 :118 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 10:01:890 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 10:01:266 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 10:01:251 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 10:01:445 INFO  NewUserSignUpOrLoginPage2 :126 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 11:01:965 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:421 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:889 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:471 INFO  NewUserSignUpOrLoginPage2 :126 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 11:01:487 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2024-01-02 11:01:496 INFO  RegisterPage3 :90 - Verifying the account information after logging in
+2024-01-02 11:01:516 INFO  RegisterPage3 :95 - Click on the Title Mr.radio button
+2024-01-02 11:01:263 INFO  RegisterPage3 :172 - Click on Create Account and user created account successfully
+2024-01-02 11:01:284 INFO  AccountCreatedPage4 :45 - Verifying account creation successfully
+2024-01-02 11:01:313 INFO  AccountCreatedPage4 :45 - Verifying account creation successfully
+2024-01-02 11:01:374 INFO  AccountCreatedPage4 :56 - Clicking on Continue button and navigating to HomePage with registered Username 
+2024-01-02 11:01:377 INFO  AccountCreatedPage4 :62 - Verifying Logged in as registered UserName
+2024-01-02 11:01:150 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:567 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:249 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:951 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:638 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:371 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:856 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:250 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:208 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:410 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-02 11:01:462 INFO  NewUserSignUpOrLoginPage2 :107 - Passing the email address in the email text field
+2024-01-02 11:01:811 INFO  NewUserSignUpOrLoginPage2 :126 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 11:01:964 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:190 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:516 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:713 INFO  AccountCreatedPage4 :62 - Verifying Logged in as registered UserName
+2024-01-02 11:01:753 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:756 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 11:01:11 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:407 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:449 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:975 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:237 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:460 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:890 INFO  NewUserSignUpOrLoginPage2 :126 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 11:01:75 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:459 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:905 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:506 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:998 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:326 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:678 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:833 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:777 INFO  AccountCreatedPage4 :62 - Verifying Logged in as registered UserName
+2024-01-02 11:01:106 INFO  AccountCreatedPage4 :70 - Click onto logout button and user navigated to login page
+2024-01-02 11:01:129 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:238 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:311 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:420 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:768 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:169 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:252 INFO  NewUserSignUpOrLoginPage2 :113 - Passing the name in the name text field
+2024-01-02 11:01:302 INFO  NewUserSignUpOrLoginPage2 :119 - Passing the email address in the email text field
+2024-01-02 11:01:673 INFO  NewUserSignUpOrLoginPage2 :126 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 11:01:698 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:65 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:660 INFO  HomePage1 :186 - Click on to contact us button and navigates to Contact Us Page
+2024-01-02 11:01:243 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:604 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:667 INFO  HomePage1 :192 - Click on test cases button and navigates to test cases page successfully 
+2024-01-02 11:01:20 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:737 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:406 INFO  HomePage1 :174 - Click on the SignUp or login button to navigate to the New User Page
+2024-01-02 11:01:558 INFO  NewUserSignUpOrLoginPage2 :92 - Passing the name in the name text field
+2024-01-02 11:01:625 INFO  NewUserSignUpOrLoginPage2 :107 - Passing the email address in the email text field
+2024-01-02 11:01:972 INFO  NewUserSignUpOrLoginPage2 :126 - Click on the SignUp Button and navigating to Register Page 
+2024-01-02 11:01:175 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:607 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:801 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:227 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:211 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:925 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:261 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:641 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:762 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:225 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:272 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:274 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 11:01:472 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:02 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:59 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:61 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 11:01:903 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:239 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:291 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:62 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:721 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:56 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:408 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:342 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:11 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:175 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:803 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:769 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:898 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:900 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 11:01:728 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:388 INFO  HomePage1 :166 - verifying homepage url
+2024-01-02 11:01:514 INFO  HomePage1 :206 - Clicking on products button
+2024-01-02 11:01:515 INFO  ProductPage8 :103 - Getting All Products Text
+2024-01-02 11:01:640 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-02 11:01:679 INFO  HomePage1 :166 - verifying homepage url
